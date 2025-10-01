@@ -12,7 +12,7 @@ This project allows administrators and students to interact with a classroom sys
 
 ---
 
-## ✨ Features  
+##  Features  
 - Add and manage multiple **classrooms**.  
 - Enroll **students** in specific classrooms.  
 - Create and assign **assignments** to classrooms.  
@@ -22,7 +22,7 @@ This project allows administrators and students to interact with a classroom sys
 
 ---
 
-## 🎯 Key Highlights  
+##  Key Highlights  
 - Built with **Java (console application)** – no fancy UI, just clean logic.  
 - Implements **Factory Pattern** for entity creation (`Student`, `Assignment`).  
 - Uses **Interface-driven design** (`IClassroomManager`) for flexibility and scalability.  
@@ -31,7 +31,7 @@ This project allows administrators and students to interact with a classroom sys
 
 ---
 
-## 🚀 How to Run  
+##  How to Run  
 1. Open terminal in the `src` folder.  
 2. Compile the project:
    ```bash
