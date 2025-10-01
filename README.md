@@ -1,6 +1,6 @@
 # Virtual Classroom Manager  
 
-The **Virtual Classroom Manager** is a simple **console-based Java application** that simulates a digital classroom environment. It is designed to demonstrate **OOP principles**, **design patterns**, and **best coding practices** in a clean and structured way.  
+The **Virtual Classroom Manager** is a simple **console-based Java application** that simulates a digital classroom environment..  
 
 This project allows administrators and students to interact with a classroom system where:  
 -  Classrooms can be created and managed.  
@@ -23,11 +23,9 @@ This project allows administrators and students to interact with a classroom sys
 ---
 
 ##  Key Highlights  
-- Built with **Java (console application)** – no fancy UI, just clean logic.  
+
 - Implements **Factory Pattern** for entity creation (`Student`, `Assignment`).  
-- Uses **Interface-driven design** (`IClassroomManager`) for flexibility and scalability.  
-- Follows **SOLID Principles** and clean OOP design.  
-- Well-structured **package organization** (`model/`, `manager/`, `factory/`, `ui/`).  
+- Uses **Interface-driven design** (`IClassroomManager`) for flexibility and scalability.    
 
 ---
 
